@@ -1,0 +1,79 @@
+<style>
+.col-right {
+  float: right;
+  width: 33%;
+  padding-top: 24px;
+}
+.col-left {
+  float: left;
+  width: 60%;
+  padding-top: 24px;
+}
+.col-center {
+	width: 64%;
+	text-align: center;
+	margin: 0 auto;
+}
+.col {
+}
+.col h1 {
+  color: #8a1b61;
+	font-size: 26px;
+}
+.col h1.volunteer {
+  margin-top: 24px;
+}
+.col h1 span {
+  font-size: 64px;
+}
+.col h2,
+.col th {
+  color: #00778b;
+  font-size: 23px;
+}
+.col h3 {
+  color: #8A1B61;
+  font-size: 16px;
+  margin-bottom: -6px;
+}
+.col p.large {
+  font-size: 18px;
+  margin-top: 24px;
+  line-height: 24px;
+}
+.col a.large {
+  color: #8a1b61;
+  font-size: 22px;
+}
+.col a.large:hover {
+  color: #8a1b61;
+  text-decoration: none;
+}
+.col ul {
+  font-size: 14px;
+  margin-top: 12px;
+}
+.col table th {
+  background: #fff;
+}
+.col table tr:nth-child(odd) td {
+  background: #fafafa;
+}
+</style>
+
+<div class="col">
+<h1 class="volunteer">Our Tail</h1>
+
+<p class="large">Found Animals’ Adopt & Shop was launched in support of a single belief: all pets deserve a home. We are a community of humane adoption and retail centers, staffed by passionate volunteers and store associates who help make sure every pet has a  safe haven.</p>
+
+<p class="large">Adopt & Shop Culver City is truly a one-stop adoption and shopping experience.  We are the only nonprofit pet retailer in California that offers pet adoption, daycare, grooming, dog training, and a complete line of quality and unique products to support  happy and healthy pets.</p>
+
+<p class="large">But we can’t do it alone.  We need volunteers to assist in caring for the animals.  Our volunteers are given the opportunity to make a positive impact on their community, one animal at a time.</p>
+
+<p class="large">While others do great work to support animals, no one offers total care for your dog or cat like Adopt & Shop in Culver City.</p>
+
+<p class="large">Since our adoptable dogs and cats come from local shelters, every adoption saves the life of an at-risk animal.  Our experienced store associates are here to support families in creating happy and healthy homes for their pets.</p>
+
+<p class="large">As a part of the Found Animals nonprofit organization, we’re empowered to approach adoptions differently. Proceeds from Adopt & Shop retail sales are donated to programs that support the happiness and safety of animals in our homes, shelters and everywhere in between.</p>
+
+<p class="large">&nbsp;</p>

@@ -1,0 +1,122 @@
+<style>
+.col-right {
+  float: right;
+  width: 33%;
+  padding-top: 24px;
+}
+.col-left {
+  float: left;
+  width: 60%;
+  padding-top: 24px;
+}
+.col {
+}
+.col h2,
+.col th {
+  color: #00778b;
+  font-size: 23px;
+}
+.col h3 {
+  color: #8A1B61;
+  font-size: 16px;
+  margin-bottom: -6px;
+}
+.col ul {
+  font-size: 14px;
+  margin-top: 12px;
+}
+.col table th {
+  background: #fff;
+}
+.col table tr:nth-child(odd) td {
+  background: #fafafa;
+}
+</style>
+
+<div class="col col-right">
+<table>
+<tbody>
+<tr>
+<th colspan="2">Playtime by Adopt & Shop</th>
+</tr>
+<tr>
+<td>1/2 Day</td>
+<td width="20%">$25.00</td>
+</tr>
+<tr>
+<td>Full Day</td>
+<td>$38.00</td>
+</tr>
+<tr>
+<td>10 Day Package</td>
+<td>$340.00</td>
+</tr>
+<tr>
+<td>20 Day Package</td>
+<td>$645.00</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+
+<table>
+<tbody>
+<tr>
+<th colspan="2">Paw La Carte</th>
+</tr>
+<tr>
+<td>Canine Assessment</td>
+<td width="20%">Free</td>
+</tr>
+<tr>
+<td>30 Minute Training</td>
+<td>$20.00</td>
+</tr>
+<tr>
+<td>Special Meal</td>
+<td>$4.00</td>
+</tr>
+<tr>
+<td>Medication Fee</td>
+<td>$3.00</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+
+<em>All prices are per day or per session</em>
+</div>
+
+
+
+
+<div class="col col-left">
+<h2>Playtime is Fun!</h2>
+<p>Adopt &amp; Shop Playtime is a fun way to give dogs exercise, mental stimulation and socialize with both dogs and people. This is a great way to prevent separation anxiety and keep your pet active, especially new pets that haven&rsquo;t settled into a routine with their family. The program consists of daily activities, games, nap time and group play. Pets are kept in separate play areas based on size.</p>
+<p>&nbsp;</p>
+<h2>The Program</h2>
+<p>The program consists of a balance of play and quiet time to rest. This is done to ensure that individual dogs get lots of stimulation but have diversity throughout the day.</p>
+<p>Doggie Daycare is a superior alternative to dog sitting because the pet interacts with other dogs. Before entering the program each dog must be assessed on our &ldquo;10 Points of Play&rdquo; compatibility profile.</p>
+<p>&nbsp;</p>
+<h2>Pricing</h2>
+<p>At Adopt &amp; Shop Playtime, our caring staff will personally recommend the right daycare service for your pet. With packages ranging from &frac12; day to 20 sessions, your pet could have loads of fun for as little as $32 a day!</p>
+<p>&nbsp;</p>
+<h2>Doggie Daycare Activities</h2>
+<p>Adopt &amp; Shop Playtime offers dogs a balance of mentally stimulating activities and tranquil relaxation. Each day, your dog may go through a number of activities like Tug Time with Toys, naps and snacks, play ball, quiet time, and interactive games. We alternate between excitement and down-time to maintain routines and energy levels.</p>
+<p>&nbsp;</p>
+<h2>Vaccinations &amp; Health Requirements</h2>
+<p>For the health and safety of our guests, all dogs must show proof of vaccination for Rabies, DHLPP, and Bordatella, before a pet is admitted into Adopt &amp; Shop Playtime. Vaccinations must be administered at least 48 hours prior to arrival under the guidance of a licensed veterinarian.</p>
+<p>All dogs must be over 4 months of age and be spayed or neutered.</p>
+<p>&nbsp;</p>
+<h2>How to Schedule a Compatibility Assessment</h2>
+<p>Safety is our number one priority for animals, customers and staff. We require that each dog must be assessed on our &ldquo;10 Points of Play&rdquo; compatibility profile. The assessment is free, but requires an appointment and drop off for the day. Our goal is to make sure your dog will play well with other visitors to Adopt &amp; Shop Playtime.</p>
+<p>Come visit Adopt &amp; Shop in Culver City or call 310-93-FOUND (933-6863) for more information or to schedule an assessment.</p>
+<p>&nbsp;</p>
+<h3>Location:</h3>
+<p>4235 Sepulveda Blvd<br /> Culver City, CA 90230<br /> (310) 93-FOUND (933-6863)</p><br/>
+<h3>Store Hours:</h3>
+<p>Monday to Saturday: 10:00am to 9:00pm <br /> Sunday: 11:00am to 7:00pm</p><br/>
+<h3>Adopt &amp; Shop Playtime:</h3>
+<p>Monday to Friday: 7:00am to 7:00pm</p>
+<p>&nbsp;</p>
+</div>

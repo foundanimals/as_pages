@@ -1,0 +1,128 @@
+<style>
+.col-right {
+  float: right;
+  width: 33%;
+  padding-top: 24px;
+}
+.col-left {
+  float: left;
+  width: 60%;
+  padding-top: 24px;
+}
+.col {
+}
+.col h2,
+.col th {
+  color: #00778b;
+  font-size: 23px;
+}
+.col h3 {
+  color: #8A1B61;
+  font-size: 16px;
+  margin-bottom: -6px;
+}
+.col ul {
+  font-size: 14px;
+  margin-top: 12px;
+}
+.col table th {
+  background: #fff;
+}
+.col table tr:nth-child(odd) td {
+  background: #fafafa;
+}
+</style>
+
+<div class="col col-right">
+<table>
+<tbody>
+<tr><th colspan="2">Course Fees</th></tr>
+<tr>
+<td>Adoption Love &amp; Learn</td>
+<td width="20%">$89.00</td>
+</tr>
+<tr>
+<td>Shy Dog Class</td>
+<td>$89.00</td>
+</tr>
+<tr>
+<td>Early Doggie Kindergarten</td>
+<td>$99.00</td>
+</tr>
+<tr>
+<td>Smart Doggie High School</td>
+<td>$99.00</td>
+</tr>
+<tr>
+<td>Genius Doggie Electives</td>
+<td>$25.00</td>
+</tr>
+<tr>
+<td>One Hour Private Lesson</td>
+<td>$75.00</td>
+</tr>
+<tr>
+<td>Half Hour Private Lesson</td>
+<td>$40.00</td>
+</tr>
+<tr>
+<td>AKC Canine Good Citizen Exam</td>
+<td>$15.00</td>
+</tr>
+</tbody>
+</table>
+</div>
+
+
+<div class="col col-left">
+<h2>Why Should I Train My Dog?</h2>
+<p>When you take your dog to a training class at Adopt &amp; Shop Academy, you are starting your dog&rsquo;s new life out on the right paw. Using our unique training approach and our knowledge of dog behavior, we can help you establish a lifelong relationship with your best friend that is built on mutual respect and understanding.</p>
+<p>Training can give your dog confidence to take on the world around them with grace and enthusiasm, and help them become the dogs they were meant to be - a dog that is emotionally healthy, mentally stable, and a happy, well behaved member of your family. Whether you just adopted with us and want to build your communication skills, or have long-time friend that needs to go to finishing school, Adopt &amp; Shop Academy will help.</p>
+<p>&nbsp;</p>
+<h3>Benefits of Training:</h3>
+<ul>
+<li>Your dog will learn basic manners and reliable behaviors</li>
+<li>Your dog will gain confidence through socialization and trust building exercises</li>
+<li>You and your dog will have fun and enjoy playing relationship-building games</li>
+<li>We will help you address problem behaviors with positive responses and preventative solutions</li>
+<li>You will learn to develop a healthy, meaningful relationship with your dog</li>
+</ul>
+<p>&nbsp;</p>
+<h3>Certified Pet Trainers </h3>
+<p>Our passionate trainers are educated in canine behavior, canine learning theory, and developmental stages, with a special emphasis on shelter dog behavior.</p>
+<p>&nbsp;</p>
+<h3>Positive, Proven Methods </h3>
+<p>Using positive reinforcement training methods, we will teach you how to turn your new dog into a doggie genius, demonstrating reliable behaviors the first time you ask, every time. By using our positive methods, along with playing fun games and socializing with other dogs, you and your dog are sure to have a great time!</p>
+<p>&nbsp;</p>
+<h3>Results Are Guaranteed! </h3>
+<p>If you are unsatisfied with the results of your training class, we invite to join us again, free of charge!   How to Sign Up for a Class Come visit Adopt &amp; Shop in Culver City or call 310-93-FOUND (933-6863) for more information on Adopt &amp; Shop Academy or to register for a class.</p>
+<p>&nbsp;</p>
+<h2>Adopt &amp; Shop Academy Classes </h2>
+<p>All our classes are four weeks long and graduates earn a certificate of completion. Most classes occur in the evening and weekends for your convenience. Private lessons are also available upon request.</p>
+<p>&nbsp;</p>
+<h3>Adoption Love &amp; Learn </h3>
+<p>This class is specifically tailored for recently adopted dogs that have a need for human love and doggie socialization. Dogs will learn some basic commands and do confidence-building exercises to help them come out of their shell and let their true personalities shine. Dogs will learn their names, learn how to be handled by their owners, and play fun relationship building games. No previous training needed!  </p>
+<p>&nbsp;</p>
+<h3>Shy Dog Play &amp; Grow </h3>
+<p>For our timid companions, this class will help build the confidence of shy dogs and teach them to be less fearful with people using positive reinforcement and social play. Dogs will perform specialized confidence-building exercises, learn a few commands, and prepare to explore their world. No previous training needed! </p>
+<p>&nbsp;</p>
+<h2>Beginner Doggie Kindergarten </h2>
+<p>This class is specifically tailored for adult dogs and puppies that have had no previous training or have graduated from Adoption Love &amp; Learn or Shy Dog Play &amp; Grow. Dogs will learn the foundations of dog training and beginner level commands, play games, and build a loving relationship with their owners in a fun, positive environment. </p>
+<p>&nbsp;</p>
+<h2>Smart Doggie High School </h2>
+<p>This course will build on Beginner Doggie Kindergarten and help advance your dog&rsquo;s ability to learn behaviors involving greater distance, duration and distractions. More advanced games and commands are also introduced. </p>
+<p>&nbsp;</p>
+<h2>Genius Doggie Electives</h2>
+<p>Genius Doggie Electives build on previous training for the smartest doggies in town. Classes meet at the same time each week and are designed to master advanced skills. Come for one class or join them all.</p>
+
+<p><em>AKC Canine Good Citizen Testing and Private Training are also available.</em></p>
+
+<p>&nbsp;</p>
+<h3>Location:</h3>
+<p>4235 Sepulveda Blvd<br /> Culver City, CA 90230<br /> (310) 93-FOUND (933-6863)</p><br/>
+<h3>Store Hours:</h3>
+<p>Monday to Saturday: 10:00am to 9:00pm <br /> Sunday: 11:00am to 7:00pm</p><br/>
+<h3>Adopt &amp; Shop Playtime:</h3>
+<p>Monday to Friday: 7:00am to 7:00pm</p>
+<p>&nbsp;</p>
+</div>

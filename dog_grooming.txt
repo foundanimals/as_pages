@@ -1,0 +1,236 @@
+<style>
+.col-right {
+  float: right;
+  width: 33%;
+  padding-top: 24px;
+}
+.col-left {
+  float: left;
+  width: 60%;
+  padding-top: 24px;
+}
+.col {
+}
+.col h2,
+.col th {
+  color: #00778b;
+  font-size: 23px;
+}
+.col h3 {
+  color: #8A1B61;
+  font-size: 16px;
+  margin-bottom: -6px;
+}
+.col ul {
+  font-size: 14px;
+  margin-top: 12px;
+}
+.col table th {
+  background: #fff;
+}
+.col table tr:nth-child(odd) td {
+  background: #fafafa;
+}
+</style>
+
+<div class="col col-right">
+<table>
+<tbody>
+<tr><th width="33%">Bubbles &amp; Bath</th><th width="33%">Short Coat</th><th width="33%">Long Coat</th></tr>
+<tr>
+<td>Petite (up to 20 lbs.)</td>
+<td>$35.00</td>
+<td>$40.00</td>
+</tr>
+<tr>
+<td>Small (21-40 lbs.)</td>
+<td>$40.00</td>
+<td>$45.00</td>
+</tr>
+<tr>
+<td>Medium (41-60 lbs.)</td>
+<td>$45.00</td>
+<td>$50.00</td>
+</tr>
+<tr>
+<td>Large (+61 lbs. &amp; Poodles)</td>
+<td>$50.00*</td>
+<td>$55.00*</td>
+</tr>
+<tr>
+<td colspan="3">* Starting price for services</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+
+<table>
+<tbody>
+<tr><th colspan="2">Signature Styling</th></tr>
+<tr>
+<td>Petite (Up to 20 lbs.)</td>
+<td width="20%">$60.00</td>
+</tr>
+<tr>
+<td>Small (21-40 lbs.)</td>
+<td>$65.00</td>
+</tr>
+<tr>
+<td>Medium (41-60 lbs.)</td>
+<td>$70.00</td>
+</tr>
+<tr>
+<td>Large (+61 lbs. &amp; Poodles)</td>
+<td>$80.00+ up</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+
+<table>
+<tbody>
+<tr><th colspan="2">Paw La Carte</th></tr>
+<tr>
+<td>Face, Feet, and Tail Trim</td>
+<td width="20%">$20.00*</td>
+</tr>
+<tr>
+<td>Feet Trim</td>
+<td>$10.00*</td>
+</tr>
+<tr>
+<td>Rear Feather Trim</td>
+<td>$8.00*</td>
+</tr>
+<tr>
+<td>Sanitary Trim</td>
+<td>$10.00*</td>
+</tr>
+<tr>
+<td>Teeth Brushing</td>
+<td>$10.00</td>
+</tr>
+<tr>
+<td>Ear Cleaning</td>
+<td>$8.00</td>
+</tr>
+<tr>
+<td>Ear Hair Removal</td>
+<td>$8.00</td>
+</tr>
+<tr>
+<td>Ear &amp; Nail</td>
+<td>$14.00</td>
+</tr>
+<tr>
+<td>Nail Clipping</td>
+<td>$10.00</td>
+</tr>
+<tr>
+<td>Nail Grinding</td>
+<td>$14.00</td>
+</tr>
+<tr>
+<td>Pawticure</td>
+<td>$15.00</td>
+</tr>
+<tr>
+<td>External Anal Glands Expression</td>
+<td>$12.00</td>
+</tr>
+<tr>
+<td>De-Matting per minute</td>
+<td>$1.00</td>
+</tr>
+<tr>
+<td>Medicated/Flea Bath</td>
+<td>$12-$16</td>
+</tr>
+<tr>
+<td>Hand Stripping (estimate provided after consult)</td>
+<td><em>estimate</em></td>
+</tr>
+</tbody>
+</table>
+</div>
+
+<div class="col col-left">
+<h2>A Groomed Pet is a Healthy Pet</h2>
+<p>Adopt &amp; Shop Untangled provides high-quality grooming services for the beauty and health of your pets. The salon offers full service styling as well as bath and brush services. In addition, a menu of Paw La Carte services ranging from teeth brushing to nail trimming are also available. The key benefits of grooming are:</p>
+<ul>
+<li>Your pet will look good and feel comfortable</li>
+<li>Your groomer becomes familiar with your pet&rsquo;s health and can spot problems early</li>
+<li>Regular grooming can prevent matting, reduce excessive oils from the coat and nurture the skin</li>
+</ul>
+<p>&nbsp;</p>
+<h2>Pricing</h2>
+<p>At Adopt &amp; Shop Untangled, our professional stylists will personally meet with you to discuss your pet&rsquo;s specific needs and recommend the proper grooming service. Due to differences in breeds, varying conditions of the coat, size of the pet, and time needed to complete the service, grooming prices are determined after your dog is assessed at check in.</p>
+<p>&nbsp;</p>
+
+<h2>Special Adoption Package</h2>
+<p>Receive 25% off your first package from Adopt & Shop Untangled when you show that your dog was adopted from Adopt & Shop, or any local shelter or rescue group. Speak with an Adopt & Shop Untangled associate for more details.</p>
+<p>&nbsp;</p>
+
+<h2>Services</h2>
+<h3>Bubbles &amp; Brush</h3>
+<p>The perfect service for dogs that do not require a full styling appointment. The groomer will brush your dog, removing superficial tangles or mats, give them a bath, and condition their coat. Once the dog is dry, the dog is brushed again; and a finishing spritz or scent may be applied to the coat.</p>
+<p>Every Bubbles &amp; Brush service includes:</p>
+<ul>
+<li>15 minutes of brushing</li>
+<li>Oxygen-infused bath</li>
+<li>Shampoo and conditioners</li>
+<li>Blow dry</li>
+<li>Nail trim</li>
+<li>Ear cleaning</li>
+<li>Anal gland expression</li>
+</ul>
+<p>&nbsp;</p>
+<h3>Signature Styling</h3>
+<p>Our trained stylists will shape and cut your dog&rsquo;s coat to the most popular breed types or customize a style that you like.</p>
+<p>Every Signature Styling includes:</p>
+<ul>
+<li>Scissor cut and clipper sculpting</li>
+<li>Shaving pads and sanitary trim</li>
+<li>Oxygen-infused bath</li>
+<li>Blow dry</li>
+<li>Shampoo and conditioners</li>
+<li>Nail trim</li>
+<li>Ear cleaning</li>
+<li>Anal gland expression </li>
+</ul>
+<p>Signature Styling also includes all the services offered in the Bubbles &amp; Brush service.</p>
+<p>&nbsp;</p>
+<h2>Paw La Carte Services</h2>
+<h3>Pawdicure</h3>
+<p>Treat your pet to a nail shaping and polish. Your pet&rsquo;s nails will look as good as yours!</p>
+<p>&nbsp;</p>
+<h3>De-Matting </h3>
+<p>Thick, unruly hair? No, thanks! A combination of techniques will be used to untangle that mess prior to bathing.</p>
+<p>&nbsp;</p>
+<h3>Teeth Brushing </h3>
+<p>A good brushing will improve dental care and brighten their smile!</p>
+<p>&nbsp;</p>
+<h3>Special Shampoos &amp; Conditioners</h3>
+<p>Sometimes sensitive skin needs a softer touch. Ask your groomer for more information about hypoallergenic, whitening, oatmeal or other options for your dog&rsquo;s coat.</p>
+<p>&nbsp;</p>
+<h3>De-shedding </h3>
+<p>A variety of de-shedding techniques used to remove a dog&rsquo;s undercoat. Perfect prior to bathing suit season!</p>
+<p>&nbsp;</p>
+<h2>Walk-in Services</h2>
+<h3>Anal Glands </h3>
+<p>This service should be done regularly to prevent impacted anal glands. Recommended every 4-6 weeks.</p>
+<p>&nbsp;</p>
+<h3>Nails</h3>
+<p>The groomer will trim and/or file the nails down on all paws, including the dewclaw. Recommended every 4-6 weeks.</p>
+<p>&nbsp;</p>
+<h2>How to Book an Appointment</h2>
+<p>Visit Adopt &amp; Shop in Culver City or call 310-93-FOUND (933-6863) for more information or to book an appointment.</p>
+<p>&nbsp;</p>
+<h3>Location:</h3>
+<p>4235 Sepulveda Blvd<br /> Culver City, CA 90230<br /> (310) 93-FOUND (933-6863)</p><br/>
+<h3>Store Hours:</h3>
+<p>Monday to Saturday: 10:00am to 9:00pm <br /> Sunday: 11:00am to 7:00pm</p><br/>
+<h3>Adopt &amp; Shop Playtime:</h3>
+<p>Monday to Friday: 7:00am to 7:00pm</p>
+<p>&nbsp;</p>
+</div>

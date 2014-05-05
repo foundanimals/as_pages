@@ -1,0 +1,103 @@
+<style>
+.col-right {
+  float: right;
+  width: 33%;
+  padding-top: 24px;
+}
+.col-left {
+  float: left;
+  width: 60%;
+  padding-top: 24px;
+}
+.col-center {
+	width: 64%;
+	text-align: center;
+	margin: 0 auto;
+  padding-top: 24px;
+}
+.col {
+}
+.col h1 {
+  color: #8a1b61;
+	font-size: 26px;
+}
+.col h1.volunteer {
+  font-size: 34px;
+}
+.col h1 span {
+  font-size: 42px;
+}
+.col h2,
+.col th {
+  color: #00778b;
+  font-size: 23px;
+}
+.col h3 {
+  color: #8A1B61;
+  font-size: 16px;
+  margin-bottom: -6px;
+}
+.col p.large {
+  font-size: 18px;
+  margin-top: 24px;
+  line-height: 24px;
+}
+.col a.large {
+  color: #8a1b61;
+  font-size: 16px;
+}
+.col a.large:hover {
+  color: #8a1b61;
+  text-decoration: none;
+}
+.col ul {
+  font-size: 14px;
+  margin-top: 12px;
+}
+.col table th {
+  background: #fff;
+}
+.col table tr:nth-child(odd) td {
+  background: #fafafa;
+}
+.col .store-locator {
+  width: 125px;
+  padding-bottom: 36px;
+  margin: 0;
+}
+.col .shop-location {
+  padding-top: 20px;
+}
+</style>
+
+<div class="col col-right">
+<h2>Adopt & Shop locations</h2>
+<br/>
+<h3>Culver City </h3>
+<p class="large">4235 Sepulveda Blvd <br/>
+Culver City, CA 90230</p>
+<br/>
+
+<h3>Lakewood </h3>
+<p class="large">353 Lakewood Center Mall <br/>
+Lakewood, CA 90230</p>
+<br/>
+</div>
+
+
+<div class="col col-left">
+<h1 class="volunteer">
+VOLUNTEER WITH ADTOP & SHOP!
+</h1>
+
+<p class="large">Do you love animals and want to make a difference in their lives? Volunteer!</p>
+
+<p class="large">Because we’re a nonprofit, shopping at Adopt & Shop helps more than your favorite pet, it helps all pets.  Proceeds from our retail sales are donated to programs that improve the well-being of animals everywhere.</p>
+
+<p class="large">But we can’t do it alone.  We need volunteers to assist in caring for the animals.  Our volunteers are given the opportunity to make a positive impact on their community, one animal at a time.</p>
+
+<p class="large">Orientations and training are going on now.<br/>
+<div class="store-locator"><div class="shop-location">
+<div class="btn"><button class="button_4" onclick="window.open('https://www.volgistics.com/ex/portal.dll/ap?AP=1047327586', '_top')"><span><span>Apply Online</span></span></button></div>
+</div></div>
+</div>
