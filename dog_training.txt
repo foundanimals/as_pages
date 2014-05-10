@@ -11,6 +11,9 @@
 }
 .col {
 }
+.col h1 {
+  font-size: 28px;
+}
 .col h2,
 .col th {
   color: #00778b;
@@ -71,15 +74,25 @@
 </tr>
 </tbody>
 </table>
+
+<p>&nbsp;</p>
+<h3>Location:</h3>
+<p>4235 Sepulveda Blvd<br /> Culver City, CA 90230<br /> (310) 93-FOUND (933-6863)</p><br/>
+<h3>Store Hours:</h3>
+<p>Monday through Friday: 10:00am to 9:00pm <br />
+Saturday and Sunday: 10:00am to 6:00pm</p><br/>
+<h3>Adopt &amp; Shop Playtime:</h3>
+<p>Monday to Friday: 7:00am to 7:00pm</p>
+<p>&nbsp;</p>
 </div>
 
 
 <div class="col col-left">
-<h2>Why Should I Train My Dog?</h2>
-<p>When you take your dog to a training class at Adopt &amp; Shop Academy, you are starting your dog&rsquo;s new life out on the right paw. Using our unique training approach and our knowledge of dog behavior, we can help you establish a lifelong relationship with your best friend that is built on mutual respect and understanding.</p>
-<p>Training can give your dog confidence to take on the world around them with grace and enthusiasm, and help them become the dogs they were meant to be - a dog that is emotionally healthy, mentally stable, and a happy, well behaved member of your family. Whether you just adopted with us and want to build your communication skills, or have long-time friend that needs to go to finishing school, Adopt &amp; Shop Academy will help.</p>
+<h3>What Are the Benefits of Dog Training?</h3>
+<p>When you enroll your dog in a dog training class at Adopt &amp; Shop Academy, you are starting your dog&rsquo;s new life out on the right paw. Using our unique training approach and our knowledge of dog behavior, we can help you establish a lifelong relationship with your best friend that is built on mutual respect and understanding.</p>
+<p>Dog Training can give your dog confidence to take on the world around them with grace and enthusiasm, and help them become the dogs they were meant to be - a dog that is emotionally healthy, mentally stable, and a happy, well behaved member of your family. Whether you just adopted with us and want to build your communication skills, or have long-time friend that needs to go to finishing school, Adopt &amp; Shop Academy will help.</p>
 <p>&nbsp;</p>
-<h3>Benefits of Training:</h3>
+<h3>Benefits of Dog Training:</h3>
 <ul>
 <li>Your dog will learn basic manners and reliable behaviors</li>
 <li>Your dog will gain confidence through socialization and trust building exercises</li>
@@ -88,7 +101,7 @@
 <li>You will learn to develop a healthy, meaningful relationship with your dog</li>
 </ul>
 <p>&nbsp;</p>
-<h3>Certified Pet Trainers </h3>
+<h3>Certified Dog Trainers </h3>
 <p>Our passionate trainers are educated in canine behavior, canine learning theory, and developmental stages, with a special emphasis on shelter dog behavior.</p>
 <p>&nbsp;</p>
 <h3>Positive, Proven Methods </h3>
@@ -116,13 +129,5 @@
 <p>Genius Doggie Electives build on previous training for the smartest doggies in town. Classes meet at the same time each week and are designed to master advanced skills. Come for one class or join them all.</p>
 
 <p><em>AKC Canine Good Citizen Testing and Private Training are also available.</em></p>
-
-<p>&nbsp;</p>
-<h3>Location:</h3>
-<p>4235 Sepulveda Blvd<br /> Culver City, CA 90230<br /> (310) 93-FOUND (933-6863)</p><br/>
-<h3>Store Hours:</h3>
-<p>Monday to Saturday: 10:00am to 9:00pm <br /> Sunday: 11:00am to 7:00pm</p><br/>
-<h3>Adopt &amp; Shop Playtime:</h3>
-<p>Monday to Friday: 7:00am to 7:00pm</p>
 <p>&nbsp;</p>
 </div>

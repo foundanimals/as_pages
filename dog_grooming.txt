@@ -11,6 +11,9 @@
 }
 .col {
 }
+.col h1 {
+  font-size: 28px;
+}
 .col h2,
 .col th {
   color: #00778b;
@@ -152,9 +155,24 @@
 </tr>
 </tbody>
 </table>
+
+<p>&nbsp;</p>
+<h3>Location:</h3>
+<p>4235 Sepulveda Blvd<br /> Culver City, CA 90230<br /> (310) 93-FOUND (933-6863)</p><br/>
+<h3>Store Hours:</h3>
+<p>Monday through Friday: 10:00am to 9:00pm <br />
+Saturday and Sunday: 10:00am to 6:00pm</p><br/>
+<h3>Adopt &amp; Shop Playtime:</h3>
+<p>Monday to Friday: 7:00am to 7:00pm</p>
+<p>&nbsp;</p>
 </div>
 
 <div class="col col-left">
+<h1>Culver City’s Dog Grooming</h1>
+<h2>How to Book an Appointment</h2>
+<p>Visit Adopt &amp; Shop in Culver City or call 310-93-FOUND (933-6863) for more information or to book an appointment.</p>
+<p>&nbsp;</p>
+
 <h2>A Groomed Pet is a Healthy Pet</h2>
 <p>Adopt &amp; Shop Untangled provides high-quality grooming services for the beauty and health of your pets. The salon offers full service styling as well as bath and brush services. In addition, a menu of Paw La Carte services ranging from teeth brushing to nail trimming are also available. The key benefits of grooming are:</p>
 <ul>
@@ -163,15 +181,15 @@
 <li>Regular grooming can prevent matting, reduce excessive oils from the coat and nurture the skin</li>
 </ul>
 <p>&nbsp;</p>
-<h2>Pricing</h2>
-<p>At Adopt &amp; Shop Untangled, our professional stylists will personally meet with you to discuss your pet&rsquo;s specific needs and recommend the proper grooming service. Due to differences in breeds, varying conditions of the coat, size of the pet, and time needed to complete the service, grooming prices are determined after your dog is assessed at check in.</p>
+<h2>Grooming Service Pricing</h2>
+<p>At Adopt &amp; Shop Untangled, our professional stylists will personally meet with you to discuss your pet&rsquo;s specific needs and recommend the proper dog grooming service. Due to differences in breeds, varying conditions of the coat, size of the dog, and time needed to complete the service, grooming prices are determined after your dog is assessed at check in.</p>
 <p>&nbsp;</p>
 
 <h2>Special Adoption Package</h2>
 <p>Receive 25% off your first package from Adopt & Shop Untangled when you show that your dog was adopted from Adopt & Shop, or any local shelter or rescue group. Speak with an Adopt & Shop Untangled associate for more details.</p>
 <p>&nbsp;</p>
 
-<h2>Services</h2>
+<h2>Grooming Services</h2>
 <h3>Bubbles &amp; Brush</h3>
 <p>The perfect service for dogs that do not require a full styling appointment. The groomer will brush your dog, removing superficial tangles or mats, give them a bath, and condition their coat. Once the dog is dry, the dog is brushed again; and a finishing spritz or scent may be applied to the coat.</p>
 <p>Every Bubbles &amp; Brush service includes:</p>
@@ -223,14 +241,5 @@
 <h3>Nails</h3>
 <p>The groomer will trim and/or file the nails down on all paws, including the dewclaw. Recommended every 4-6 weeks.</p>
 <p>&nbsp;</p>
-<h2>How to Book an Appointment</h2>
-<p>Visit Adopt &amp; Shop in Culver City or call 310-93-FOUND (933-6863) for more information or to book an appointment.</p>
-<p>&nbsp;</p>
-<h3>Location:</h3>
-<p>4235 Sepulveda Blvd<br /> Culver City, CA 90230<br /> (310) 93-FOUND (933-6863)</p><br/>
-<h3>Store Hours:</h3>
-<p>Monday to Saturday: 10:00am to 9:00pm <br /> Sunday: 11:00am to 7:00pm</p><br/>
-<h3>Adopt &amp; Shop Playtime:</h3>
-<p>Monday to Friday: 7:00am to 7:00pm</p>
-<p>&nbsp;</p>
+
 </div>

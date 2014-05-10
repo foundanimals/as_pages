@@ -158,19 +158,18 @@
 		<ul>
 			<li>Dog Training</li>
 			<li>Dog Daycare</li>
-			<li>Grooming</li>
-			<li>Microchipping &amp; Registration</li>
+			<li>Dog Grooming</li>
+			<li>Pet Microchipping &amp; Registration</li>
 			<li>Nail Trimming</li>
 			<li>Custom ID Tags</li>
 		</ul>
 	</div>
 
 	<div class="column_02">
-		<p>Found Animals&rsquo; Adopt &amp; Shop pet store and adoption center was conceived in support of a single belief: all pets deserve a home. Our third and largest Adopt &amp; Shop location will open its doors in spring 2014 in Culver City and offer dozens of adoptable animals, a wide-array of services, and a hand-picked selection retail products to help keep your pets happy and healthy.</p>
-		<p>Our adoptable dogs and cats come from local shelters along with our support to ensure families are able to create happy and healthy homes for their pets over the long term. Because we&rsquo;re a nonprofit, purchasing from Adopt &amp; Shop helps more than your favorite pet, it helps all pets. Proceeds from our retail sales are reinvested to improve the well-being of animals everywhere.</p>
-		<p>Services available will include dog and cat adoptions, dog training, pet microchipping and registration, nail trimming, and custom identification tags.</p>
+		<h2>Adopt & Shop is Now Open in Culver City!</h2>
+		<p>Found Animals’ Adopt & Shop was conceived in support of a single belief: all pets deserve a home. Our largest Adopt & Shop location opened its doors on May 12, 2014 in Culver City.  Adopt & Shop is truly a one-stop adoption and shopping experience.  We are the only nonprofit pet retail store in California that offers pet adoption, dog daycare, dog grooming, dog training, and a complete line of quality and unique products to support happy and health pets.</p>
+		<p>Since our adoptable dogs and cats come from local shelters, every adoption saves the life of an at-risk animal.  Because we’re a nonprofit, purchasing from Adopt & Shop helps more than your favorite pet, it helps all pets. Proceeds from our retail sales are reinvested to improve the well-being of animals everywhere.</p>
 		<p>&nbsp;</p>
-
 
 		<div class="store-locator">
 		<div class="shop-location">
@@ -206,9 +205,8 @@
 		<p>&nbsp;</p>
 
 		<p><strong>Store Hours:</strong></p>
-		<p>Monday through Friday: 10 a.m. - 9 p.m.</p>
-		<p>Saturday: 10 a.m. - 7 p.m.</p>
-		<p>Sunday: 11 a.m. - 6 p.m.</p>
+		<p>Monday through Friday: 10:00am - 9:00pm</p>
+		<p>Saturday and Sunday: 10:00am - 6:00pm</p>
 		<p>{{block type="core/template" name="map_distance" template="cms/map_distance.phtml" }}</p>
 
 	</div>
