@@ -40,7 +40,7 @@
 <table>
 <tbody>
 <tr>
-<th colspan="2">Playtime by Adopt & Shop</th>
+<th colspan="2">Adopt & Shop Playtime</th>
 </tr>
 <tr>
 <td>1/2 Day</td>
@@ -104,8 +104,13 @@ Saturday and Sunday: 10:00am to 6:00pm</p><br/>
 
 
 <div class="col col-left">
+<h1>Culver City’s Dog Grooming</h1>
+<h2>How to Book an Appointment</h2>
+<p>Visit Adopt &amp; Shop in Culver City or call 310-93-FOUND (933-6863) for more information or to book an appointment.</p>
+<p>&nbsp;</p>
+
 <h1>Full Service Dog Daycare in Culver City</h1>
-<h3>Adopt & Shop Playtime is Fun!</h3>
+<h2>Adopt & Shop Playtime is Fun!</h2>
 <p>Adopt &amp; Shop Playtime is a fun way to give dogs exercise, mental stimulation and socialize with both dogs and people. This is a great way to prevent separation anxiety and keep your pet active, especially new pets that haven&rsquo;t settled into a routine with their family. Dog daycare consists of daily activities, games, nap time and group play. Pets are kept in separate play areas based on size.</p>
 <p>&nbsp;</p>
 <h2>Dog Daycare at Adopt & Shop</h2>
@@ -115,7 +120,7 @@ Saturday and Sunday: 10:00am to 6:00pm</p><br/>
 <h2>Daycare Pricing</h2>
 <p>At Adopt &amp; Shop Playtime, our caring staff will personally recommend the right daycare service for your pet. With packages ranging from &frac12; day to 20 sessions, your pet could have loads of fun for as little as $32 a day!</p>
 <p>&nbsp;</p>
-<h2>Doggie Daycare Activities</h2>
+<h2>Dog Daycare Activities</h2>
 <p>Adopt &amp; Shop Playtime offers dogs a balance of mentally stimulating activities and tranquil relaxation. Each day, your dog may go through a number of activities like Tug Time with Toys, naps and snacks, play ball, quiet time, and interactive games. We alternate between excitement and down-time to maintain routines and energy levels.</p>
 <p>&nbsp;</p>
 <h2>Vaccinations &amp; Health Requirements</h2>

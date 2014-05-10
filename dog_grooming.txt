@@ -162,8 +162,8 @@
 <h3>Store Hours:</h3>
 <p>Monday through Friday: 10:00am to 9:00pm <br />
 Saturday and Sunday: 10:00am to 6:00pm</p><br/>
-<h3>Adopt &amp; Shop Playtime:</h3>
-<p>Monday to Friday: 7:00am to 7:00pm</p>
+<h3>Adopt & Shop Untangled:</h3>
+<p>Monday through Sunday: By appointment only</p>
 <p>&nbsp;</p>
 </div>
 

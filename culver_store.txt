@@ -207,6 +207,7 @@
 		<p><strong>Store Hours:</strong></p>
 		<p>Monday through Friday: 10:00am - 9:00pm</p>
 		<p>Saturday and Sunday: 10:00am - 6:00pm</p>
+		<p>(310) 93-FOUND (933-6863)</p>
 		<p>{{block type="core/template" name="map_distance" template="cms/map_distance.phtml" }}</p>
 
 	</div>

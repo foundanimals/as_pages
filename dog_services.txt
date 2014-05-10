@@ -114,52 +114,12 @@
 </style>
 
 <div class="col col-right">
-<table>
-<tbody>
-<tr><th colspan="2">Course Fees</th></tr>
-<tr>
-<td>Adoption Love &amp; Learn</td>
-<td width="20%">$89.00</td>
-</tr>
-<tr>
-<td>Shy Dog Class</td>
-<td>$89.00</td>
-</tr>
-<tr>
-<td>Early Doggie Kindergarten</td>
-<td>$99.00</td>
-</tr>
-<tr>
-<td>Smart Doggie High School</td>
-<td>$99.00</td>
-</tr>
-<tr>
-<td>Genius Doggie Electives</td>
-<td>$25.00</td>
-</tr>
-<tr>
-<td>One Hour Private Lesson</td>
-<td>$75.00</td>
-</tr>
-<tr>
-<td>Half Hour Private Lesson</td>
-<td>$40.00</td>
-</tr>
-<tr>
-<td>AKC Canine Good Citizen Exam</td>
-<td>$15.00</td>
-</tr>
-</tbody>
-</table>
-
-<p>&nbsp;</p>
 <h3>Location:</h3>
 <p>4235 Sepulveda Blvd<br /> Culver City, CA 90230<br /> (310) 93-FOUND (933-6863)</p><br/>
 <h3>Store Hours:</h3>
 <p>Monday through Friday: 10:00am to 9:00pm <br />
-Saturday and Sunday: 10:00am to 6:00pm</p><br/>
-<h3>Adopt &amp; Shop Playtime:</h3>
-<p>Monday to Friday: 7:00am to 7:00pm</p>
+Saturday and Sunday: 10:00am to 6:00pm</p>
+<p>(310) 93-FOUND (933-6863)</p>
 <p>&nbsp;</p>
 </div>
 
