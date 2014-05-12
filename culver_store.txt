@@ -137,19 +137,16 @@
 
 		<div class="carousel" data-paginate>
 			<div>
-				<img src="/media/slides/ans-cc-ext.jpg" alt="" />
+				<img src="/media/slides/kennels_after.jpg" alt="" />
 			</div>
 			<div>
-				<img src="http://wiki.eternal-wow.com/images/3/3b/Kitty-kitties-9109284-500-460.jpg" alt="" />
+				<img src="/media/slides/kfp_after.jpg" alt="" />
 			</div>
 			<div>
-				<img src="{{media url="wysiwyg/store3.png"}}" alt="" />
+				<img src="/media/slides/retail_area_after.jpg" alt="" />
 			</div>
 			<div>
-				<img src="http://www.globalpost.com/sites/default/files/imagecache/gp3_slideshow_large/akita_inu_puppy_20_06_2012.jpg" alt="" />
-			</div>
-			<div>
-				<img src="http://2.bp.blogspot.com/_wY73OGfLL_s/TKU6sxiuZnI/AAAAAAAAABQ/8oTpw1uq-bk/s1600/IMG_3452.JPG" alt="" />
+				<img src="/media/slides/services_check_in_after.jpg" alt="" />
 			</div>
 		</div>
 		<p>&nbsp;</p>
