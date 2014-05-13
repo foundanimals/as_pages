@@ -143,19 +143,19 @@ Saturday and Sunday: 10:00am to 6:00pm</p>
 <div class="store-locator">
     <div class="shop-location">
       <div class="btn">
-        <button class="button_4" onclick="window.open('/culver-city-store/dog-daycare', '_top')">
+        <button class="button_4" onclick="window.open('/culver-city-pet-store/dog-daycare', '_top')">
           <span><span>Dog Daycare</span></span>
         </button>
       </div>
 
       <div class="btn">
-        <button class="button_red" onclick="window.open('/culver-city-store/dog-grooming', '_top')">
+        <button class="button_red" onclick="window.open('/culver-city-pet-store/dog-grooming', '_top')">
           <span><span>Dog Grooming</span></span>
         </button>
       </div>
 
       <div class="btn">
-        <button class="button_purple" onclick="window.open('/culver-city-store/dog-training', '_top')">
+        <button class="button_purple" onclick="window.open('/culver-city-pet-store/dog-training', '_top')">
           <span><span>Dog Training</span></span>
         </button>
       </div>
